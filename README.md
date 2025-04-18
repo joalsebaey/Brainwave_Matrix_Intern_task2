@@ -86,6 +86,6 @@ The analysis is based on social media data from multiple platforms including Twi
 [MIT License](LICENSE)
 
 ## Contact
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [yousefayman150@gmail.com](yousef alsebaey)
 
-Project Link: [https://github.com/yourusername/social-media-sentiment-analysis](https://github.com/yourusername/social-media-sentiment-analysis)
+Project Link: [[https://github.com/yourusername/social-media-sentiment-analysis](https://github.com/yourusername/social-media-sentiment-analysis](https://github.com/joalsebaey/Brainwave_Matrix_Intern_task2))
